@@ -1,11 +1,1 @@
-{
-    “applinks”: {
-        “apps”: [],
-        “details”: [
-            {
-                “appID”: “2TDUX39LX8.com.reddit.Reddit”,
-                “paths”: [“*”],
-            }
-        ]
-    }
-}
+{"applinks":{"apps":[],"details":[{"appIDs":["2TDUX39LX8.com.reddit.Reddit","6X3B423LNC.com.reddit.inhouse.dev","6X3B423LNC.com.reddit.inhouse.qa"],"appID":"2TDUX39LX8.com.reddit.Reddit","components":[{"/":"/","comment":"Frontpage"},{"/":"/r/*","comment":"Subreddit page"},{"/":"/u/*","comment":"User profile page"},{"/":"/user/*","comment":"User profile page"},{"/":"/comments/*","comment":"Post detail page"},{"/":"/live/*","comment":"Live"},{"/":"/message/*","comment":"Inbox messages"},{"/":"/chat/*","comment":"Chat"},{"/":"/channel/*","comment":"Chat"},{"/":"/prefs/update","comment":"Email/password change page"},{"/":"/coins","comment":"Gold (coins)"},{"/":"/community-points/*","comment":"Gold (coins)"},{"/":"/premium","comment":"Premium (ad-free) buy page"},{"/":"/verification/*","comment":"Email verification"},{"/":"/rpan/*","comment":"RPAN"},{"/":"/layer","comment":"Layer"},{"/":"/search/*","comment":"Search page"},{"/":"/vault/*","comment":"Vault"},{"/":"/submit/*","comment":"Post creation page"},{"/":"/account/magic_link/landing/*","comment":"Magic link authentication"}],"paths":["/","/r/*","/u/*","/user/*","/comments/*","/live/*","/message/*","/chat/*","/channel/*","/prefs/update","/coins","/community-points/*","/premium","/verification/*","/rpan/*","/layer","/search/*","/vault/*","/submit/*","/account/magic_link/landing/*"]},{"appID":"6X3B423LNC.com.reddit.inhouse.dev","paths":["/","/r/*","/u/*","/user/*","/comments/*","/live/*","/message/*","/chat/*","/channel/*","/prefs/update","/coins","/community-points/*","/premium","/verification/*","/rpan/*","/layer","/search/*","/vault/*","/submit/*","/account/magic_link/landing/*"]},{"appID":"6X3B423LNC.com.reddit.inhouse.qa","paths":["/","/r/*","/u/*","/user/*","/comments/*","/live/*","/message/*","/chat/*","/channel/*","/prefs/update","/coins","/community-points/*","/premium","/verification/*","/rpan/*","/layer","/search/*","/vault/*","/submit/*","/account/magic_link/landing/*"]}]},"activitycontinuation":{"apps":["2TDUX39LX8.com.reddit.Reddit","6X3B423LNC.com.reddit.inhouse.dev","6X3B423LNC.com.reddit.inhouse.qa"]},"webcredentials":{"apps":["2TDUX39LX8.com.reddit.Reddit","6X3B423LNC.com.reddit.inhouse.dev","6X3B423LNC.com.reddit.inhouse.qa"]}}
